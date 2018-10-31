@@ -2,7 +2,7 @@
 ** Program name: BerryBush.cpp
 ** Author: Ben Fridkis
 ** Date: 6/1/2017
-** Description: Defintion of BerryBush class member functions. 
+** Description: Definition of BerryBush class member functions. 
 				BerryBush is a derived class of the parent class 
 				Item.
 **************************************************************/
