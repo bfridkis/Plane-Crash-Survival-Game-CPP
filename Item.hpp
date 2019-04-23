@@ -19,7 +19,7 @@ using std::endl;
 using std::string;
 using std::vector;
 
-//This forward declarations are needed to workaround a
+//These forward declarations are needed to workaround a
 //cyclic dependency. (https://stackoverflow.com/questions/
 //2133250/does-not-name-a-type-error)
 class Player;
